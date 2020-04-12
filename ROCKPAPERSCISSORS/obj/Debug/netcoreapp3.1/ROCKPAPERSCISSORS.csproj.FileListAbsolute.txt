@@ -1,0 +1,13 @@
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\obj\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.csprojAssemblyReference.cache
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\obj\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.csproj.CoreCompileInputs.cache
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\obj\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.AssemblyInfoInputs.cache
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\obj\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.AssemblyInfo.cs
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\bin\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.exe
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\bin\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.deps.json
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\bin\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.runtimeconfig.json
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\bin\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.runtimeconfig.dev.json
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\bin\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.dll
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\bin\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.pdb
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\obj\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.dll
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\obj\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.pdb
+C:\Users\HaigH\RiderProjects\ROCKPAPERSCISSORS\ROCKPAPERSCISSORS\obj\Debug\netcoreapp3.1\ROCKPAPERSCISSORS.genruntimeconfig.cache
